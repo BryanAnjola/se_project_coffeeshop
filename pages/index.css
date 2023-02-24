@@ -25,6 +25,9 @@
   align-items: center;
   text-decoration: none;
 }
+.nav__links:hover {
+  color: #000000;
+}
 .nav__links {
   display: flex;
   column-gap: 20px;
